@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+    text-decoration: none;
+    color: inherit;
+}
+.rasm{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x: ;
+    overflow-y: ;
+}
+.p1{
+    font-size: 20px;
+    color: black;
+}
+.div{
+    display: flex;
+    column-gap: 20px;
+    width: 700px;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 300px;
+}
+.rasm2{
+    width: 50px;
+    height: 50px;
+}
+
+.span{
+    color: grey;
+    opacity: 50%;
+}
+
+button {
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
